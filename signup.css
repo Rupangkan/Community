@@ -10,7 +10,7 @@
 body{
     min-height: 100vh;
     padding: 40px 0;
-    background-color: #ecedef;
+    background-color: #86b99b;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -18,7 +18,7 @@ body{
 }
 
 .card{
-    background-color: #fff;
+    background-color: rgb(173, 173, 173);
     padding: 30px;
     max-width: 375px;
     width: 100%;
@@ -29,6 +29,7 @@ body{
 .card h2{
     font-size: 27px;
     margin-bottom: 40px;
+    color: #fff;
 }
 
 .inputs{
